@@ -36,7 +36,7 @@ export const skills = [
         percentage: '50'
     },
     {
-        skill:'GitHub',
+        skill:'Git',
         icon: '',
         percentage: '50'
     },
@@ -46,7 +46,12 @@ export const skills = [
         percentage: '40'
     },
     {
-        skill:'JavaScript Vanilla',
+        skill:'MySQL',
+        icon: '',
+        percentage: '30'
+    },
+    {
+        skill:'JavaScript',
         icon: '',
         percentage: '30'
     },
