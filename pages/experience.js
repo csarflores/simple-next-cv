@@ -22,7 +22,7 @@ const Experience = () => {
                       <h6>
                         {from} - {to}
                       </h6>
-                      <p className="card-text">{description}</p>
+                      <pre className="card-text"><p>{description}</p></pre>
                     </div>
                   </li>
                 )

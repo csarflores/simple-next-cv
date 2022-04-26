@@ -68,28 +68,28 @@ export const experience = [
         from: 'Oct 2018',
         to: 'Ene 2021',
         ocupation: 'Administrativo',
-        description: 'Administración comercial:<br />* Gestión de cuentas corrientes de clientes en Rafaela y las diferentes zonas comerciales.<br />* Rendición diaria de cobranzas y posterior registro en el sistema.<br /><br /></br>Administración general:<br />* Trámites bancarios.<br />* Conciliaciones bancarias.<br />* Conciliaciones cupones tarjetas de débito y crédito.<br />* Registración de cobranzas.<br />* Archivo.<br />* Actividades administrativas generales.'
+        description: 'Administración comercial:\r\n* Gestión de cuentas corrientes de clientes en Rafaela y las diferentes zonas comerciales.\r\n* Rendición diaria de cobranzas y posterior registro en el sistema.\r\n\nAdministración general:\r\n* Trámites bancarios.\r\n* Conciliaciones bancarias.\r\n* Conciliaciones cupones tarjetas de débito y crédito.\r\n* Registración de cobranzas.\r\n* Archivo.\r\n* Actividades administrativas generales.'
     },
     {
         company: 'Limansky SA',
         from: 'Ene 2012',
         to: 'Ago 2017',
         ocupation: 'Control registración contable',
-        description: 'Controlar las registraciones contables y realizar las acciones necesarias para brindar a las distintas direcciones de la empresa información útil, confiable y eficiente.<br />Tareas principales:<br />* Controlar las registraciones contables.<br />* Liderar las tareas para el cierre contable mensual.<br />* Realizar informes correspondientes al cierre contable mensual.<br />* Realizar tareas e informes para el cierre de balance.<br />* Mejora, re-ingeniería de procesos administrativos y creación de modelos aplicando BI.<br />* Auditorias internas de procesos y creación de indicadores de gestión utilizando Excel y Microstrategy.'
+        description: 'Controlar las registraciones contables y realizar las acciones necesarias para brindar a las distintas direcciones de la empresa información útil, confiable y eficiente.\r\nTareas principales:\r\n* Controlar las registraciones contables.\r\n* Liderar las tareas para el cierre contable mensual.\r\n* Realizar informes correspondientes al cierre contable mensual.\r\n* Realizar tareas e informes para el cierre de balance.\r\n* Mejora, re-ingeniería de procesos administrativos y creación de modelos aplicando BI.\r\n* Auditorias internas de procesos y creación de indicadores de gestión utilizando Excel y Microstrategy.'
     },
     {
         company: 'Limansky SA',
         from: 'Ene 2010',
         to: 'Dic 2011',
         ocupation: 'Registración contable',
-        description: 'Registrar los comprobantes de compras en el sistema contable interno.<br />Tareas principales:<br />* Registrar en el sistema interno de contabilidad todos los comprobantes de compras.<br />* Realizar controles para el cierre contable mensual.'
+        description: 'Registrar los comprobantes de compras en el sistema contable interno.\r\nTareas principales:\r\n* Registrar en el sistema interno de contabilidad todos los comprobantes de compras.\r\n* Realizar controles para el cierre contable mensual.'
     },
     {
         company: 'Limansky SA',
         from: 'Dic 2007',
         to: 'Dic 2009',
         ocupation: 'Responsable de archivo',
-        description: 'Tareas principales:<br />* Realizar un sistema lógico y eficiente para el archivo.<br />* Archivar la documentación.<br />* Controles mensuales de documentación.<br />* Atención de pedidos de documentación de clientes internos.<br />* Realizar los expurgos anuales.'
+        description: 'Tareas principales:\r\n* Realizar un sistema lógico y eficiente para el archivo.\r\n* Archivar la documentación.\r\n* Controles mensuales de documentación.\r\n* Atención de pedidos de documentación de clientes internos.\r\n* Realizar los expurgos anuales.'
     },
     {
         company: 'Imtec SA',
