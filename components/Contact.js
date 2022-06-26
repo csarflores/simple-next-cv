@@ -17,7 +17,6 @@ const Contact = () => {
                                     <a target="_blank">{celular}</a>
                                 </Link>
                             </li>
-                            <li className="list-group-item"><strong>Domicilio:</strong> {domicilio}</li>
                             <li className="list-group-item"><strong>Ciudad:</strong> {ciudad}, {provincia}, {pais}</li>
                             <li className="list-group-item"><strong>Edad:</strong> {fechaNacimiento}</li>
                         </ul>                        
