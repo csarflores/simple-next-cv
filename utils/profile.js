@@ -102,8 +102,7 @@ export const experience = [
 
 export const contact = [
     {
-        fechaNacimiento : '31 años',
-        domicilio : 'Dimas Mateos 690',
+        fechaNacimiento : '32 años',
         ciudad: 'Rafaela',
         provincia: 'Santa Fe',
         pais: 'Argentina',
