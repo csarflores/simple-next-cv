@@ -75,7 +75,7 @@ export const experience = [
         from: 'Ene 2012',
         to: 'Ago 2017',
         ocupation: 'Analista contable',
-        description: 'Controlar las registraciones contables y realizar las acciones necesarias para brindar a las distintas direcciones de la empresa información útil, confiable y eficiente.\r\nTareas principales:\r\n* Liderar las tareas para el cierre contable mensual.\r\n* Realizar tareas e informes para el cierre de balance.\r\n* Mejora, re-ingeniería de procesos administrativos y creación de modelos aplicando BI.\r\n* Auditorias internas de procesos y creación de indicadores de gestión utilizando Excel y Microstrategy.'
+        description: 'Tareas principales:\r\n* Liderar las tareas para el cierre contable mensual.\r\n* Realizar tareas e informes para el cierre de balance.\r\n* Mejora, re-ingeniería de procesos administrativos y creación de modelos aplicando BI.\r\n* Auditorias internas de procesos y creación de indicadores de gestión utilizando Excel y Microstrategy.'
     },
     {
         company: 'Limansky SA',
