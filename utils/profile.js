@@ -166,12 +166,5 @@ export const courses = [
         from: "Oct 2021",
         to: "Dic 2021",
         certificateURL: 'certificates/02argprograma.png'
-    },
-    {
-        institution: "Ministrerio de desarrollo productivo de Argentina",
-        nameCourse: "Argentina Programa #YoProgramo",
-        from: "Feb 2022",
-        to: "actualidad",
-        certificateURL: 'encurso.png'
     }
 ]
