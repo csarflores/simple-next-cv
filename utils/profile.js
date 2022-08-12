@@ -74,15 +74,15 @@ export const experience = [
         company: 'Limansky SA',
         from: 'Ene 2012',
         to: 'Ago 2017',
-        ocupation: 'Control registración contable',
-        description: 'Controlar las registraciones contables y realizar las acciones necesarias para brindar a las distintas direcciones de la empresa información útil, confiable y eficiente.\r\nTareas principales:\r\n* Controlar las registraciones contables.\r\n* Liderar las tareas para el cierre contable mensual.\r\n* Realizar informes correspondientes al cierre contable mensual.\r\n* Realizar tareas e informes para el cierre de balance.\r\n* Mejora, re-ingeniería de procesos administrativos y creación de modelos aplicando BI.\r\n* Auditorias internas de procesos y creación de indicadores de gestión utilizando Excel y Microstrategy.'
+        ocupation: 'Analista contable',
+        description: 'Controlar las registraciones contables y realizar las acciones necesarias para brindar a las distintas direcciones de la empresa información útil, confiable y eficiente.\r\nTareas principales:\r\n* Liderar las tareas para el cierre contable mensual.\r\n* Realizar tareas e informes para el cierre de balance.\r\n* Mejora, re-ingeniería de procesos administrativos y creación de modelos aplicando BI.\r\n* Auditorias internas de procesos y creación de indicadores de gestión utilizando Excel y Microstrategy.'
     },
     {
         company: 'Limansky SA',
         from: 'Ene 2010',
         to: 'Dic 2011',
         ocupation: 'Registración contable',
-        description: 'Registrar los comprobantes de compras en el sistema contable interno.\r\nTareas principales:\r\n* Registrar en el sistema interno de contabilidad todos los comprobantes de compras.\r\n* Realizar controles para el cierre contable mensual.'
+        description: 'Tareas principales:\r\n* Registrar en el sistema interno de contabilidad todos los comprobantes de compras.\r\n* Realizar controles para el cierre contable mensual.'
     },
     {
         company: 'Limansky SA',
