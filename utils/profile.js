@@ -154,7 +154,8 @@ export const references = [
         nameSurname: 'Diego Gianfrancisco',
         relation: 'Colega de trabajo',
         company: 'Food Solutions SA',
-        phone: '3492 - 574043 (celular)'
+        phone: '3492 - 574043 (celular)',
+        email: ''
     }
 ]
 
