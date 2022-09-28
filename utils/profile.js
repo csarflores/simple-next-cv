@@ -63,6 +63,13 @@ export const skills = [
 ]
 
 export const experience = [   
+     {
+        company: 'Autónomo',
+        from: 'Ene 2021',
+        to: 'Actualidad',
+        ocupation: 'Técnico de servicios informáticos',
+        description: 'Servicios técnico a PC, notebooks y tablet como trabajador independiente.'
+    },
     {
         company: 'Centro de Embalajes SA',
         from: 'Oct 2018',
@@ -144,11 +151,10 @@ export const references = [
         email: 'yanina.cattaneo@limansky.com'
     },
     {
-        nameSurname: 'Marcelo Almarante',
+        nameSurname: 'Diego Gianfrancisco',
         relation: 'Colega de trabajo',
-        company: 'Limansky SA',
-        phone: '3492 - 505544',
-        email: 'marcelo.almarante@limansky.com'
+        company: 'Food Solutions SA',
+        phone: '3492 - 574043 (celular)'
     }
 ]
 
