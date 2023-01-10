@@ -64,7 +64,7 @@ export const skills = [
 
 export const experience = [   
      {
-        company: 'Cdimex',
+        company: 'Cdimex SA',
         from: 'Oct 2022',
         to: 'Actualidad',
         ocupation: 'Auxiliar de sucursales',
