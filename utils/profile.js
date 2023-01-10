@@ -64,9 +64,16 @@ export const skills = [
 
 export const experience = [   
      {
+        company: 'Cdimex',
+        from: 'Oct 2022',
+        to: 'Actualidad',
+        ocupation: 'Auxiliar de sucursales',
+        description: 'Tareas principales:\r\n* Superviso la administración de las sucursales.\r\n* Control de cajas.\r\n* Conciliación de tarjetas.\r\n* Registro de depósitos bancarios.\r\n* Registro de notas de crédito.'
+    },
+    {
         company: 'Autónomo',
         from: 'Ene 2021',
-        to: 'Actualidad',
+        to: 'Oct 2022',
         ocupation: 'Técnico de servicios informáticos',
         description: 'Servicios técnico a PC, notebooks y tablet como trabajador independiente.'
     },
