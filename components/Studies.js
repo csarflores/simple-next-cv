@@ -4,7 +4,7 @@ const Studies = () => {
     return (
     <>
       <h2 className="pt-5">Estudios</h2>
-      <table className="table table-hover">
+      <table className="table table-hover d-grid">
         <thead>
           <tr>
             <th scope="col">Título</th>

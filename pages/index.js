@@ -15,7 +15,7 @@ export default function Home() {
         <title>César Flores CV</title>
         <meta
           name="description"
-          content="Curriculum Vitae y Portafolio de proyectos de César Flores. Administrativo y programador."
+          content="Curriculum Vitae y Portafolio de proyectos de César Flores. Desarrollador Frontend."
         />
       </Head>
       <div>

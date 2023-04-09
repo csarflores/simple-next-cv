@@ -1,8 +1,18 @@
 import Link from "next/link"
-import { linkedin, whatsapp } from "../utils/profile"
+import { github, linkedin, whatsapp } from "../utils/profile"
+
+function openCloseNavbar() {
+  var x = document.getElementById("navbarColor03");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
 
 const Navbar = () => {
   return (
+    <>
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <Link href="/">
@@ -10,35 +20,19 @@ const Navbar = () => {
             César Flores
             </a>
         </Link>
-        <button
-          className="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarColor03"
-          aria-controls="navbarColor03"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span className="navbar-toggler-icon"></span>
+        <button className="navbar-toggler">
+          <span className="navbar-toggler-icon" onClick={openCloseNavbar}></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarColor03">
           <ul className="navbar-nav me-auto">
-            {/*
-            <li className="nav-item">
-              <Link href="/blog">
-                <a className="nav-link">Blog</a>
-              </Link>
-            </li>
-            
-            <li className="nav-item">
-              <Link href="/github">
-                <a className="nav-link">Github</a>
-              </Link>
-            </li>
-            */}
             <li className="nav-item">
               <Link href={linkedin}>
                 <a className="nav-link" target="_bank">LinkedIn</a>
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link href={github}>
+                <a className="nav-link" target="_bank">Github</a>
               </Link>
             </li>
           </ul>
@@ -50,6 +44,7 @@ const Navbar = () => {
         </div>
       </div>
     </nav>
+    </>
   );
 };
 

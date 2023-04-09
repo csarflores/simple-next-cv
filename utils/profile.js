@@ -4,6 +4,9 @@ export const whatsapp = "https://wa.me/543492272189?text=Hola!%20Vi%20tu%20CV%20
 {/*Change to your linkedin profile*/}
 export const linkedin = "https://www.linkedin.com/in/c%C3%A9sar-flores-6243ba60/"
 
+{/*Change to your linkedin profile*/}
+export const github = "https://github.com/csarflores"
+
 export const skills = [
     {
         skill:'Administración y procesos',
@@ -31,6 +34,16 @@ export const skills = [
         percentage: '70'
     },
     {
+        skill:'Next JS',
+        icon: '',
+        percentage: '60'
+    },
+    {
+        skill:'JavaScript',
+        icon: '',
+        percentage: '50'
+    },
+    {
         skill:'Bootstrap',
         icon: '',
         percentage: '50'
@@ -43,22 +56,17 @@ export const skills = [
     {
         skill:'PHP',
         icon: '',
-        percentage: '40'
+        percentage: '50'
     },
     {
         skill:'MySQL',
         icon: '',
-        percentage: '30'
+        percentage: '40'
     },
     {
-        skill:'JavaScript',
+        skill:'Tailwind',
         icon: '',
-        percentage: '30'
-    },
-    {
-        skill:'Next JS',
-        icon: '',
-        percentage: '20'
+        percentage: '40'
     }
 ]
 
@@ -69,6 +77,13 @@ export const experience = [
         to: 'Actualidad',
         ocupation: 'Auxiliar de sucursales',
         description: 'Tareas principales:\r\n* Superviso la administración de las sucursales.\r\n* Control de cajas.\r\n* Conciliación de tarjetas.\r\n* Registro de depósitos bancarios.\r\n* Registro de notas de crédito.'
+    },
+     {
+        company: 'Autónomo',
+        from: 'Ene 2014',
+        to: 'Actualidad',
+        ocupation: 'Desarrollo de aplicaciones web',
+        description: 'Desarrollo de forma autónoma aplicaciones y páginas web como hobbie, proyectos personales y para amigos.\r\n * Proyecto Tiendasity - ecommerce para la ciudad de Rafaela (tecnologías: HTML-CSS-JavaScript-JQuery-PHP-MySQL-JSON)\r\n * Páginas web estáticas para comercios de la ciudad de Rafaela (tecnologías: HTML-CSS-JavaScript)\r\n * Páginas web con Wordpress\r\n * Landing Page Lubricantes del Oeste (tecnologías: Next js - Tailwind)\r\n * Simple Next CV (tecnologías: Next js - Bootstrap)'
     },
     {
         company: 'Autónomo',
@@ -131,7 +146,7 @@ export const studies = [
         institution: 'UTN Rafaela',
         from: '2022',
         to: 'actualidad',
-        status: 'Cursando primer año'
+        status: 'Cursando segundo año'
     },
     {
         title: 'Ingeniería electromecánica',

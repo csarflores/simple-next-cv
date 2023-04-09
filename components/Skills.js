@@ -5,7 +5,7 @@ const Skills = () => {
     <div className="card-body">
       <h2>Habilidades</h2>
       {/*Recorro el arreglo skills de profile.js e imprimo cada habilidad*/}
-      {skills.map(({ skill, percentage }, i) => (
+      { skills.map(({ skill, percentage }, i) => (
         <div className="py-3" key={i}>
           <h6>{skill}</h6>
           <div className="progress">
