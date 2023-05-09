@@ -25,8 +25,8 @@ const Courses = () => {
                                 <h5 className="card-title">{nameCourse}</h5>
                                 <h6>{institution}</h6>
                                 <p className="card-text">{from} - {to ? `${to}` : "- actualidad"}</p>
-                                <Link href="#">
-                                    <a className="card-text">
+                                <Link href={`/${certificateURL}`}>
+                                    <a className="card-text" target="_blank">
                                         <small className="text-muted">Ver certificado</small>
                                     </a>
                                 </Link>
