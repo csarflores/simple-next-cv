@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { github, linkedin, whatsapp } from "../utils/profile"
+import { proyects } from "../utils/proyects";
 
 function openCloseNavbar() {
   var x = document.getElementById("navbarColor03");
@@ -33,6 +34,11 @@ const Navbar = () => {
             <li className="nav-item">
               <Link href={github}>
                 <a className="nav-link" target="_bank">Github</a>
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link href="/proyects">
+                <a className="nav-link">Mis proyectos</a>
               </Link>
             </li>
           </ul>

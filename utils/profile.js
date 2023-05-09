@@ -70,20 +70,20 @@ export const skills = [
     }
 ]
 
-export const experience = [   
-     {
-        company: 'Cdimex SA',
-        from: 'Oct 2022',
-        to: 'Actualidad',
-        ocupation: 'Auxiliar de sucursales',
-        description: 'Tareas principales:\r\n* Superviso la administración de las sucursales.\r\n* Control de cajas.\r\n* Conciliación de tarjetas.\r\n* Registro de depósitos bancarios.\r\n* Registro de notas de crédito.'
-    },
+export const experience = [  
      {
         company: 'Autónomo',
         from: 'Ene 2014',
         to: 'Actualidad',
         ocupation: 'Desarrollo de aplicaciones web',
         description: 'Desarrollo de forma autónoma aplicaciones y páginas web como hobbie, proyectos personales y para amigos.\r\n * Proyecto Tiendasity - ecommerce para la ciudad de Rafaela (tecnologías: HTML-CSS-JavaScript-JQuery-PHP-MySQL-JSON)\r\n * Páginas web estáticas para comercios de la ciudad de Rafaela (tecnologías: HTML-CSS-JavaScript)\r\n * Páginas web con Wordpress\r\n * Landing Page Lubricantes del Oeste (tecnologías: Next js - Tailwind)\r\n * Simple Next CV (tecnologías: Next js - Bootstrap)'
+    },
+    {
+        company: 'Cdimex SA',
+        from: 'Oct 2022',
+        to: 'Actualidad',
+        ocupation: 'Auxiliar de sucursales',
+        description: 'Tareas principales:\r\n* Superviso la administración de las sucursales.\r\n* Control de cajas.\r\n* Conciliación de tarjetas.\r\n* Registro de depósitos bancarios.\r\n* Registro de notas de crédito.'
     },
     {
         company: 'Autónomo',
@@ -131,7 +131,7 @@ export const experience = [
 
 export const contact = [
     {
-        fechaNacimiento : '32 años',
+        fechaNacimiento : '33 años',
         ciudad: 'Rafaela',
         provincia: 'Santa Fe',
         pais: 'Argentina',
