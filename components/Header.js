@@ -20,10 +20,13 @@ const Header = () => {
               <h5>Desarrollador Frontend</h5>
               <article className="pt-3">
                 <p>
-                  Soy una persona honesta, responsable y proactivo. Me gusta trabajar en equipo y me motiva emprender nuevos desafíos.
+                  Soy un profesional autodidacta y actualmente estoy estudiando la Tecnicatura en Programación en la UTN.
                 </p>
                 <p>
-                  Profesionalmente me destaco por desarrollar e implementar sistemas de mejora continua que aporten valor y crecimiento a mi área y equipo de trabajo, tratando de hacerlos más eficaces y eficientes.
+                  A lo largo de mi trayectoria, he tenido la oportunidad de trabajar en varios proyectos desafiantes que me han permitido crecer y mejorar tanto profesional como personalmente. Estos desafíos me han impulsado a buscar constantemente oportunidades de capacitación y aprendizaje de nuevas tecnologías.
+                </p>
+                <p>
+                  Soy una persona dedicada y comprometida, disfruto trabajando en equipo para lograr los mejores resultados posibles. Mi enfoque se centra en brindar soluciones eficientes y de calidad, siempre buscando superar las expectativas.
                 </p>
                 <p>
                   Mi deseo es formar parte de una empresa desafiante e innovadora, donde pueda aportar valor desde mi experiencia y conocimientos, como también desarrollar nuevas habilidades profesionales y relaciones personales.
