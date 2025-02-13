@@ -19,6 +19,16 @@ export const skills = [
         percentage: '90'
     },
     {
+        skill:'Next JS',
+        icon: '',
+        percentage: '80'
+    },
+    {
+        skill:'Tailwind',
+        icon: '',
+        percentage: '80'
+    },
+    {
         skill:'Contabilidad',
         icon: '',
         percentage: '70'
@@ -32,11 +42,6 @@ export const skills = [
         skill:'HTML y CSS',
         icon: '',
         percentage: '70'
-    },
-    {
-        skill:'Next JS',
-        icon: '',
-        percentage: '60'
     },
     {
         skill:'JavaScript',
@@ -60,11 +65,6 @@ export const skills = [
     },
     {
         skill:'MySQL',
-        icon: '',
-        percentage: '40'
-    },
-    {
-        skill:'Tailwind',
         icon: '',
         percentage: '40'
     }
